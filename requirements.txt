@@ -2,6 +2,3 @@ opencv-python-headless
 numpy
 pandas
 pyyaml
-ingest
-preprocess
-build_dataset
