@@ -1,4 +1,8 @@
 opencv-python-headless
+pyyaml
+torch
+torchvision
+opencv-python
 numpy
 pandas
-pyyaml
+matplotlib
